@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Ajay",
+        "lastName": "Ram",
+        "hobbies": [
+            "reading books",
+            "playing games",
+            "coding"
+        ],
+        "age": 20,
+        "TakenTest": true,
+        "average": 0
+    },
+    {
+        "firstName": "Ganesh",
+        "lastName": "Satya",
+        "hobbies": [
+            "playing games",
+            "escsaping for work",
+            "fighting"
+        ],
+        "age": 17,
+        "TakenTest": false,
+        "average": 0
+    }
+]
